@@ -5,7 +5,7 @@ Mini version of CRM to manage Companies and its employee:
 
 ## Requirement
 
-- PHP 9.19
+- PHP 8
 - composer 
 - mysql 8
 - node 16
